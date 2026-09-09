@@ -1,4 +1,4 @@
-# Campus Connect AI
+# Campus Connect Android app
 
 A native Android application designed to facilitate campus discovery and intelligent networking. Campus Connect helps students find peers and faculty who have solved similar problems in research or placement contexts, acting as a personal university matchmaker.
 
